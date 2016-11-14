@@ -51,6 +51,8 @@ WHERE id = 11
 
 UPDATE people SET name = 'Jeff 3'
 WHERE id = 15
+UPDATE people SET name = 'Jeff 3.2'
+WHERE id = 13
 
 8. The cinema has just heard that they will be holding an exclusive midnight showing of 'Guardians of the Galaxy 2'!! Create a new entry in the 'movies' table to reflect this.
 
